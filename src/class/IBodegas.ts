@@ -1,0 +1,20 @@
+export interface Bodegas {	
+IdBodega: number,
+Cargador: string,
+DesBodega: string,
+DirBodega: string,
+RefBodega: string,
+CodUbigeo: string,
+CodEstado: string,
+Latitud: number,
+Longitud: number,
+DNIContacto: string,
+NombreContacto: string,
+CelularContacto: string,
+CuentaWeb: string,
+Contraseña: string,
+PINClaro: string,
+PIN: string,
+IdVendedor: number,
+ObsBodega: string      
+}
